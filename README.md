@@ -45,6 +45,21 @@ site.  All languages and computing platforms we use are free and open source.
 
 Locations and schedule will be announced when available.
 
+### Workshop Schedule
+
+| Language | Time | Description |
+|----------|------|-------------|
+| General  | 9:00 to 9:30    | Intro to Scientific Computing and Jupyter |
+| Python   | 9:30 to 10:30am | Introduction to Python |
+|          | 10:30am to 10:45am | Break |
+|          | 10:45am to 11:30am | Working with Stats, Data, and Packages |
+|          | 11:30am to 12:15pm | Solving an Econ Problem (with Python and Numba) |
+|          | 12:15pm to 1:15pm  | Lunch
+|  Julia   | 1:15pm to 3:00pm   | Introduction to Julia |
+|          | 3:00pm to 3:15pm   | Break |
+|          | 3:15pm to 4:00pm   | Solving an Econ Problem (with Julia) |
+| General  | 4:00pm to 4:45pm   | Version Control and Collaborative Tools | 
+
 ### Previous Workshops
 
 Some examples of earlier workshops:
