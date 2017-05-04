@@ -1,5 +1,5 @@
 
-# 2017 PhD Workshops on Computational Economics
+# 2017 PhD Workshops on Computational Methods
 
 In August-September 2017, [QuantEcon](https://quantecon.org/) will run a
 series of workshops for students entering US PhD programs in economics.  The
@@ -9,7 +9,7 @@ Foundation](https://sloan.org/).
 ### Outline
 
 The workshops will provide an overview of modern open source tools and techniques for
-computational economics, loosely based on the [Quantitative
+computational modeling, loosely based on the [Quantitative
 Economics](https://lectures.quantecon.org/) lectures by Tom Sargent and John
 Stachurski.  
 
