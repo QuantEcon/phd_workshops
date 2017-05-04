@@ -3,6 +3,9 @@
 
 In August-September 2017, [QuantEcon](https://quantecon.org/) will
 run a series of workshops for students entering US PhD programs in economics.
+
+### Outline
+
 The workshops will provide an overview of modern tools and techniques for
 computational economics, loosely based on the [Quantitative
 Economics](https://lectures.quantecon.org/) lectures by Tom Sargent and John
@@ -14,7 +17,9 @@ students and postdoctoral students with expertise in
 [Python](https://www.python.org/), [Julia](https://julialang.org/) and
 computational methods for economics (details to be posted).
 
-Topics:
+### Topics:
+
+We will cover all or some subset of the following:
 
 * Introduction to Python and Julia for scientific computing
 * Comparisons with other scientific computing environments
@@ -25,7 +30,9 @@ Topics:
 * Parallel computing and other aspects of high performance computing
 * Cloud computing and remote infrastructure
 
-Each workshop will 
+### Workshops
+
+Each workshop will
 
 * Last for between half a day and one day, depending on circumstances
 * Be free to attend
