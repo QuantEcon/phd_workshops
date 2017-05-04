@@ -3,15 +3,15 @@
 
 In August-September 2017, [QuantEcon](https://quantecon.org/) will
 run a series of workshops for students entering US PhD programs in economics.
+The workshop series is supported by the [Alfred P.
+Sloan Foundation](https://sloan.org/).
 
 ### Outline
 
 The workshops will provide an overview of modern tools and techniques for
 computational economics, loosely based on the [Quantitative
 Economics](https://lectures.quantecon.org/) lectures by Tom Sargent and John
-Stachurski.  The workshop series is supported by the [Alfred P.
-Sloan Foundation](https://sloan.org/).
-
+Stachurski.  
 Workshops will be organized and run by John Stachurski and a team of PhD
 students and postdoctoral students with expertise in
 [Python](https://www.python.org/), [Julia](https://julialang.org/) and
