@@ -12,7 +12,7 @@ Economics](https://lectures.quantecon.org/) lectures by Tom Sargent and John
 Stachurski.  
 
 The primary target audience is incoming PhD students who are starting their
-economics programs, but all PhDs and faculty are welcome (subject to seating space only).
+programs, but all economics PhDs may attend (subject to seating space only).
 
 Workshops will be organized and run by John Stachurski and a team of PhD
 and postdoctoral students with expertise in computational methods for economic modeling (details to be posted).
@@ -40,7 +40,7 @@ Each workshop will
 * Last for between half a day and one day, depending on demand and circumstances
 * Be free to attend
 * Be hands on (bring your laptop!)
-* Be open to other PhD students and all faculty at the institutions we visit
+* Be open to all PhD students and faculty at the institutions we visit
 
 Locations and schedule will be announced when available.
 
