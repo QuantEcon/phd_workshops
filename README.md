@@ -2,9 +2,7 @@
 # 2017 PhD Workshops on Computational Methods
 
 In August-September 2017, [QuantEcon](https://quantecon.org/) will run a
-series of workshops for students entering US PhD programs in economics.  The
-workshop series is supported by the [Alfred P.  Sloan
-Foundation](https://sloan.org/).
+series of workshops for students entering US PhD programs in economics.
 
 ### Outline
 
@@ -16,6 +14,8 @@ Stachurski.
 Workshops will be organized and run by John Stachurski and a team of PhD
 students and postdoctoral students with expertise in
 computational methods for economic modeling (details to be posted).
+
+The workshop series is supported by the [Alfred P.  Sloan Foundation](https://sloan.org/).
 
 ### Topics:
 
