@@ -8,7 +8,7 @@ Foundation](https://sloan.org/).
 
 ### Outline
 
-The workshops will provide an overview of modern open source tools and techniques for
+The workshops will provide an overview of modern, cutting-edge, open source tools and techniques for
 computational modeling, loosely based on the [Quantitative
 Economics](https://lectures.quantecon.org/) lectures by Tom Sargent and John
 Stachurski.  
