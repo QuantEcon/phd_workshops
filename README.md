@@ -16,7 +16,7 @@ and postdoctoral students with expertise in computational methods for economic m
 
 The workshop series is supported by the [Alfred P.  Sloan Foundation](https://sloan.org/).
 
-### Topics:
+### Topics
 
 We will cover all or some subset of the following:
 
@@ -30,7 +30,7 @@ We will cover all or some subset of the following:
 * Parallel computing and other aspects of [high performance computing](https://aws.amazon.com/hpc/)
 * [Cloud computing](https://aws.amazon.com/solutions) and remote infrastructure
 
-### Structure:
+### Structure
 
 Each workshop will
 
@@ -41,7 +41,7 @@ Each workshop will
 
 Locations and schedule will be announced when available.
 
-### Outcomes:
+### Outcomes
 
 Participants will
 
