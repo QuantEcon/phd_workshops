@@ -1,0 +1,15 @@
+Shirts,Pants,0.9
+Shirts,Cars,0.05
+Shirts,Cows,0.01
+Shirts,Sugar,0.01
+Pants,Cars,0.05
+Oil,Sugar,0.01
+Oil,Cars,0.005
+Oil,Aircraft,0.005
+Cars,Aircraft,0.5
+Cars,Aircraft,0.5
+Wheat,Sugar,0.4
+Wheat,Cows,0.2
+Cows,Sugar,0.1
+Cows,Cars,0.001
+Cows,Pants,0.06
